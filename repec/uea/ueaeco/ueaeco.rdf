@@ -1,4 +1,28 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Price discovery in a continuous-time setting
+Author-Name: Gustavo Fruet Dias
+Author-X-Name-First: Gustavo
+Author-X-Name-Last: Fruet Dias
+Author-Workplace-Name: University of East Anglia
+Author-Name: Marcelo Fernandes
+Author-X-Name-First: Marcelo
+Author-X-Name-Last: Fernandes
+Author-Workplace-Name: Sao Paulo School of Economics
+Author-Name: Cristina Mabel Scherrer
+Author-X-Name-First: Cristina
+Author-X-Name-Last: Scherrer
+Author-Workplace-Name: University of East Anglia
+Abstract: We formulate a continuous-time price discovery model and investigate how the standard price discovery measures vary with respect to the sampling interval. We ﬁnd that the component share measure is invariant to the sampling interval, and hence, discrete-sampled prices suﬃce to identify the continuous-time component share. In contrast, information share estimates are not comparable across diﬀerent sampling intervals because the contemporaneous correlation between markets increases in magnitude as the sampling interval grows. We show how to back out the continuous-time information share from discrete-sampled prices under cer-tain assumptions on the contemporaneous correlation. We assess our continuous-time model by comparing the estimates of the (continuous-time) component and information shares at diﬀerent sampling intervals for 30 stocks in the US. We ﬁnd that both price discovery measures are typ-ically stable across the diﬀerent sampling intervals, suggesting that our continuous-time price discovery model ﬁts the data very well.
+Classification-JEL: C13, C32, C51, G14
+Keywords:high-frequency data, price discovery, continuous-time model, sampling interval
+Number: 2019-02
+Creation-Date: 20190816
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-19-02.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaeco:2019_02
+
+Template-Type: ReDIF-Paper 1.0
 Title: Pushing One's Luck: Petroleum ownership and discoveries
 Author-Name: Christa N. Brunnschweiler
 Author-X-Name-First: Christa
