@@ -1,4 +1,20 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Proxy VAR models in a data-rich environment
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: University of East Anglia
+Abstract: Structural VAR models require two ingredients: (i) Informational sufficiency, and (ii) a valid identification strategy. These conditions are unlikely to be met by small-scale recursively identified VAR models. I propose a Bayesian Proxy Factor-Augmented VAR (BP-FAVAR) to combine a large information set with an identification scheme based on an external instrument. In an application to monetary policy shocks I find that augmenting a standard small-scale Proxy VAR by factors from a large set of financial variables changes the model dynamics and delivers price responses which are more in line with economic theory. A second application shows that an exogenous increase in uncertainty affects disaggregated investment series more negatively than consumption series.
+Classification-JEL: C38, E60
+Keywords: Dynamic factor models, external instruments, monetary policy, uncertainty shocks
+Number: 2019-03
+Creation-Date: 20190816
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-19-03.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaeco:2019_03
+
+Template-Type: ReDIF-Paper 1.0
 Title: Price discovery in a continuous-time setting
 Author-Name: Gustavo Fruet Dias
 Author-X-Name-First: Gustavo
