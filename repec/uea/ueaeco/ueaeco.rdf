@@ -1,5 +1,29 @@
 Template-Type: ReDIF-Paper 1.0
 Title: Proxy VAR models in a data-rich environment
+Author-Name: Anna Conte
+Author-X-Name-First: Anna
+Author-X-Name-Last: Conte
+Author-Workplace-Name: Sapienza University of Rome
+Author-Name: Peter G Moffatt
+Author-X-Name-First: Peter
+Author-X-Name-Last: Moffatt
+Author-Workplace-Name: University of East Anglia
+Author-Name: Mary Riddel
+Author-X-Name-First: Mary
+Author-X-Name-Last: Riddel
+Author-Workplace-Name: University of Nevada
+Abstract: The use of Multiple Price Lists to elicit individuals' risk preferences is widespread. To model data collected through this method, we introduce the Multivariate Random Preference (MRP) estimator, specifically designed for the \switching" variant of such lists. This is a new estimation approach that enables us to exploit all available information derived from subjects' switch points in the lists. Monte Carlo simulations show that our estimator is consistent and has good small-sample properties. The estimator is derived for a two-parameter model in a risky context.
+Classification-JEL: C51; C52; C91; D81
+Keywords: Risk Preference; Monte Carlo Simulations; Importance Sampling
+Number: 2019-04
+Creation-Date: 20191121
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-19-04.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaeco:2019_04
+
+Template-Type: ReDIF-Paper 1.0
+Title: Proxy VAR models in a data-rich environment
 Author-Name: Martin Bruns
 Author-X-Name-First: Martin
 Author-X-Name-Last: Bruns
