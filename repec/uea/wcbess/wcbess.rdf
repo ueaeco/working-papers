@@ -24,24 +24,19 @@ Handle: RePEc:uea:wcbess:19-05
 
 Template-Type: ReDIF-Paper 1.0
 Title: Sender-Receiver Games with Endogenous Ex-Post Information Acquisition: Experimental Evidence
-Author-Name: Zhixin Dai
-Author-X-Name-First: Zhixin
-Author-X-Name-Last: Dai
+Author-Name: Anders Poulsen
+Author-X-Name-First: Anders
+Author-X-Name-Last: Poulsen
 Author-Workplace-Name: University of East Anglia
-Author-Name: Jiwei Zheng
-Author-X-Name-First: Jiwei
-Author-X-Name-Last: Zheng
+Author-Name: Graciela Zevallos-Porles
+Author-X-Name-First: Graciela
+Author-X-Name-Last: Zevallos-Porles
 Author-Workplace-Name: University of East Anglia
-Author-Name: Daniel John Zizzo
-Author-X-Name-First: Daniel John
-Author-X-Name-Last: Zizzo
-Author-Workplace-Name: University of East Anglia
-Abstract: We present a coordination game experiment testing the robustness of the predictive power of level-k reasoning and team-reasoning in a sample of Chinese tax administrators. We show the incidence of coordination game play is virtually identical between Chinese tax administrators and university students, which in turn is comparable with that found in research with a Western university student sample. However, relatively to non-students, students are comparatively more attracted by the focal point under team reasoning when this has equal payoffs and the other outcomes do not.   
-Classification-JEL: C72, C78, C91
-Keywords: non-student subjects, focal points, team reasoning, level-k, coordination games.
-Number: 19-05
-Creation-Date: 201912
-File-URL: https://ueaeco.github.io/working-papers/papers/cbess/UEA-CBESS-19-05.pdf
+Abstract: We study the effects of endogenous ex-post information acquisition on lying behavior and beliefs in a Sender-Receiver game. After choosing an action, the Receiver can decide to find out if the Sender lied or not. We observe that a significant proportion of Receivers decide to become informed, even when this information is costly. There is, however, no impact of the option of information acquisition on Sender behavior, and no evidence of Senders being shame averse.
+Keywords: Sender-Receiver Games; Endogenous Ex-Post Information Acquisition; Shame Aversion
+Number: 19-04
+Creation-Date: 201911
+File-URL: https://ueaeco.github.io/working-papers/papers/cbess/UEA-CBESS-19-04.pdf
 File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:wcbess:19-04
