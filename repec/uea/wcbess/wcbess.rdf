@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: A Kuhn-Tucker Model for Behaviour in Dictator Games  
+Author-Name: Peter G Moffatt
+Author-X-Name-First: Peter
+Author-X-Name-Last: Moffatt
+Author-Workplace-Name: School of Economics and CBESS, University of East Anglia, Norwich. 
+Author-Name: Graciela Zevallos-Porles
+Author-X-Name-First: Graciela
+Author-X-Name-Last: Zevallos-Porles
+Author-Workplace-Name: School of International Development and CBESS, University of East Angle, Norwich.
+Abstract: We consider data from a dictator game experiment in which each dictator is repeatedly exposed to two different treatments: a Giving treatment in which the amount given to the recipient is constrained to be non-negative; and a Taking treatment in which the amount taken from the recipient is constrained to be non-negative. Another key design feature is that the price of transferring is varied between tasks. The data is used to estimate the parameters of a Stone-Geary utility function over own-payoff and other’spayoff. Between-subject heterogeneity is assumed in one of the selfishness parameters. The econometric model incorporates zero observations (e.g. zero-giving or zero-taking) by applying a version of the Kuhn-Tucker theorem and treating zeros as corner solutions in the Dictator’s constrained optimisation problem. The method of maximum simulated likelihood (MSL) is used for estimation. We find that the average dictator exhibits a strong degree of selfishness in the sense of having a high subsistence level for own payoff. However, once this basic need is met, dictators appear willing to share the remaining endowment equally. Above all, we find that selfishness is lower in taking tasks than in giving tasks, and we attribute this difference to the "cold prickle of taking".
+Classification-JEL:C57;C91;D64;D91
+Keywords: Dictator games; Taking games; Kuhn-Tucker conditions; Experimetrics.
+Number: 20-03
+Creation-Date: 202003
+File-URL: https://ueaeco.github.io/working-papers/papers/cbess/UEA-CBESS-20-03.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:wcbess:20-03
+
+Template-Type: ReDIF-Paper 1.0
 Title: The More The Better! Increasing Label Saliency as a way to Increase Coordination. An Experimental Investigation.  
 Author-Name: David Rojo-Arjona
 Author-X-Name-First: David
