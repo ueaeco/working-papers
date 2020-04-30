@@ -35,7 +35,7 @@ Title: Hear no Evil, See no Evil: Why Antitrust Compliance Programmes may be Ine
 Author-Name: Andreas Stephan
 Author-X-Name-First: Andreas
 Author-X-Name-Last: Stephan
-Author-Workplace-Name: Centre for Competition Policy & Norwich Law School, University of East Anglia
+Author-Workplace-Name: Centre for Competition Policy and Norwich Law School, University of East Anglia
 Abstract: Cartel practices attract enormous corporate fines, even where they only involve a handful of employees. Internal compliance programmes are thought to protect firms by training employees and auditing their activities. However, this paper argues that such programmes are ineffective because cartelists typically know what they are doing is illegal, go to great lengths to avoid detection and are usually senior managers. Moreover, compliance programmes do not mitigate cartel fines, despite their being imposed on the whole corporation years after an infringement has occurred. It is argued that the threat of criminal sanctions against individuals is essential to effective internal compliance.
 Classification-JEL: K14, K21, L40, L41
 Keywords: Competition Law; Antitrust Compliance; Cartels; Article 81
@@ -263,7 +263,7 @@ Title: Beyond the Cartel Law Handbook: How Corruption, Social Norms and Collecti
 Author-Name: Andreas Stephan
 Author-X-Name-First: Andreas
 Author-X-Name-Last: Stephan
-Author-Workplace-Name: Centre for Competition Policy & Norwich Law School, University of East Anglia
+Author-Workplace-Name: Centre for Competition Policy and Norwich Law School, University of East Anglia
 Abstract: The combination of leniency programmes, high sanctions, complaints from customers and private actions for damages, has proven very successful at uncovering and punishing cartel agreements in the US. Countless jurisdictions are being encouraged to adopt these ‘conventional’ enforcement tools, in the absence of an international competition authority. The purpose of this paper is to widen the debate on cartel enforcement by identifying three issues which can undermine their effectiveness in some jurisdictions: (1) Corruption and organised crime; (2) Social norms that are sympathetic to collusive practices; (3) Collectivist business cultures built on personal relationships.
 Classification-JEL: D21, K21, K42, L40, Z1
 Keywords: cartels, leniency programmes, enforcement, corruption, organised crime, social norms, collectivism
@@ -380,7 +380,7 @@ File-Function: main text
 Handle: RePEc:uea:ueaccp:2008_23
 
 Template-Type: ReDIF-Paper 1.0
-Title: Understanding Perpetual R&D Races
+Title: Understanding Perpetual R and D Races
 Author-Name: Yves Breitmoser
 Author-X-Name-First: Yves
 Author-X-Name-Last: Breitmoser
@@ -393,9 +393,9 @@ Author-Name: Daniel John Zizzo
 Author-X-Name-First: Daniel
 Author-X-Name-Last: Zizzo
 Author-Workplace-Name: Centre for Competition Policy and School of Economics, University of East Anglia
-Abstract: This paper presents an experimental study of dynamic indefinite horizon R&D races with uncertainty and multiple prizes. The theoretical predictions are highly sensitive: small parameter changes determine whether technological competition is sustained, or converges into a market structure with an entrenched leadership and lower aggregate R&D. The subjects' strategies are far less sensitive. In most treatments, the R&D races tend to converge to entrenched leadership. Investment is highest when rivals are close. This stylized fact, and so the usefulness of neck-to-neck competition in general, is largely unrelated to rivalry concerns but can be explained using a quantal response extension of Markov perfection.
+Abstract: This paper presents an experimental study of dynamic indefinite horizon R and D races with uncertainty and multiple prizes. The theoretical predictions are highly sensitive: small parameter changes determine whether technological competition is sustained, or converges into a market structure with an entrenched leadership and lower aggregate R and D. The subjects' strategies are far less sensitive. In most treatments, the R and D races tend to converge to entrenched leadership. Investment is highest when rivals are close. This stylized fact, and so the usefulness of neck-to-neck competition in general, is largely unrelated to rivalry concerns but can be explained using a quantal response extension of Markov perfection.
 Classification-JEL: C72, C91, 031
-Keywords: R&D race; innovation; dynamics; experiment
+Keywords: R and D race; innovation; dynamics; experiment
 Number: 2008-22
 Creation-Date: 20080301
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-08-22.pdf
@@ -444,7 +444,7 @@ Title: The UK Cartel Offence: Lame Duck or Black Mamba?
 Author-Name: Andreas Stephan
 Author-X-Name-First: Andreas
 Author-X-Name-Last: Stephan
-Author-Workplace-Name: Centre for Competition Policy & Norwich Law School, University of East Anglia
+Author-Workplace-Name: Centre for Competition Policy and Norwich Law School, University of East Anglia
 Abstract: A criminal offence requiring Ghosh dishonesty was introduced in the UK by the Enterprise Act 2002, primarily to enhance cartel deterrence as a complement to corporate fines. Yet the first convictions resulted from a US plea bargain in 2008. This paper identifies three obstacles to enhancing deterrence through the cartel offence. First, Norris v USA and a public survey suggest relatively weak perceptions of cartels persist in the UK. It was envisaged that convictions would remedy this, but prosecutors will continue to be very selective about the cases they bring to trial if there are doubts as to whether price fixing alone is viewed as objectively dishonest. Secondly, any increase in criminal enforcement risks discouraging leniency applications to the European Commission, because corporate immunity granted on the Community level does not automatically protect employees from criminal prosecution in national courts. There is also no conclusive mechanism for direct settlement, as there is in the US. Thirdly, sizeable benefits and purportedly low detection rates mean deterrence may be weak if custodial sentences do not become the norm. Further sanctions such as Director Disqualification Orders can play an important role in ensuring cartelists do not seek immediate reemployment at a high level.
 Classification-JEL: Cartel offence; deterrence; dishonesty; Enterprise Act 2002; Norris v USA
 Keywords: K14, K21, L40, L41
@@ -532,7 +532,7 @@ Title: Inconsistent Regulation, Market Structure and Broadband Adoption in the E
 Author-Name: Richard Cadman
 Author-X-Name-First: 
 Author-X-Name-Last: 
-Author-Workplace-Name: Centre for Competition Policy and Strategy & Policy Consultants Network Ltd
+Author-Workplace-Name: Centre for Competition Policy and Strategy and Policy Consultants Network Ltd
 Abstract: The New Regulatory Framework (NRF) for electronic communications was intended to usher in an era of harmonised regulation across the European Union leading to better choice, price and quality for European consumers. The European Commission has voiced its frustration at the fragmented nature of the implementation of the NRF. In this paper I examine whether the NRF has indeed been introduced in a fragmented manner and whether that fragmentation affects consumers, taking broadband penetration, which is regarded as desirable both socially and economically, as the measure of consumer outcome. I find that a causal relationship exists between public policy, prices of unbundled local loops, market concentration and adoption of broadband. Using a Lagged Dependent Variable model, I find that decreasing concentration in the market structure of broadband access technologies at retail level has a strong effect on the take-up of broadband, with the effect taking time to be fully realised. To enhance consumer adoption of broadband, therefore, policy makers in the EU should seek to improve the opportunity for broadband competition.
 Classification-JEL: L86, L88, L96, L98
 Keywords: broadband adoption, regulation, electronic communications
@@ -1338,7 +1338,7 @@ File-Function: main text
 Handle: RePEc:uea:ueaccp:2006_13
 
 Template-Type: ReDIF-Paper 1.0
-Title: A Test of Perpetual R&D Races
+Title: A Test of Perpetual R and D Races
 Author-Name: Yves Brejtmoser
 Author-X-Name-First:  Yves
 Author-X-Name-Last: Brejtmoser
@@ -1351,9 +1351,9 @@ Author-Name: Daniel John Zizzo
 Author-X-Name-First:  Daniel	
 Author-X-Name-Last: Zizzo
 Author-Workplace-Name: Centre for Competition Policy and School of Economics, University of East Anglia
-Abstract: This paper presents an experimental study of dynamic indefinite horizon R&D races with uncertainty and multiple prizes. The theoretical predictions are highly sensitive: small parameter changes determine whether technological competition is sustained over time or converges into a market structure with an entrenched leadership and lower aggregate R&D research. The subjects' strategies are far less sensitive. In three out of four treatments (with the exception being a control treatment), the R&D races tend to converge to entrenched leadership. Investment is highest when rivals are close, and there is evidence of average over-investment.
+Abstract: This paper presents an experimental study of dynamic indefinite horizon R and D races with uncertainty and multiple prizes. The theoretical predictions are highly sensitive: small parameter changes determine whether technological competition is sustained over time or converges into a market structure with an entrenched leadership and lower aggregate R and D research. The subjects' strategies are far less sensitive. In three out of four treatments (with the exception being a control treatment), the R and D races tend to converge to entrenched leadership. Investment is highest when rivals are close, and there is evidence of average over-investment.
 Classification-JEL: C72; C91; O31.
-Keywords: R&D race; innovation; dynamics; experiment.
+Keywords: R and D race; innovation; dynamics; experiment.
 Number: 2006-11
 Creation-Date: 20060701
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-06-11.pdf
@@ -1402,7 +1402,7 @@ Title: Chain-store Pricing and the Structure of Retail Markets
 Author-Name: Matthew Olczak
 Author-X-Name-First:  Matthew
 Author-X-Name-Last: Olczak
-Author-Workplace-Name: Centre for Competition Policy & School of Economics, University of East Anglia
+Author-Workplace-Name: Centre for Competition Policy and School of Economics, University of East Anglia
 Abstract: This paper investigates competition between chain-stores and independents in the UK opticians' industry, using the relationship between the number of outlets present in a local market and the market size. Chain-stores are shown to have a significant effect on local market competition. In addition, the empirical approach is extended to allow inferences on the nature and extent of product differentiation. The results are broadly consistent with a model of vertical product differentiation in which chain-stores adopt national pricing strategies. The evidence suggests that the nature of competition between independent retailers depends on whether a chain-store is present.
 Classification-JEL: L11; L13; L84
 Keywords: Chain-stores, Product Differentiation, National Pricing
