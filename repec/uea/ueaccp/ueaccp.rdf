@@ -665,8 +665,8 @@ Handle: RePEc:uea:ueaccp:2008_21
 
 Template-Type: ReDIF-Paper 1.0
 Title: Gasoline Prices Jump Up on Mondays: an Outcome of Aggressive Competition?
-Author-Name: Øystein Foros
-Author-X-Name-First: Øystein
+Author-Name: Oystein Foros
+Author-X-Name-First: Oystein
 Author-X-Name-Last: Foros
 Author-Workplace-Name: Norwegian School of Economics and Business Administration
 Author-Name: Frode Steen
@@ -1582,7 +1582,7 @@ File-Function: main text
 Handle: RePEc:uea:ueaccp:2006_13
 
 Template-Type: ReDIF-Paper 1.0
-Title: A Test of Perpetual R and D Races
+Title: A Test of Perpetual R&D Races
 Author-Name: Yves Brejtmoser
 Author-X-Name-First:  Yves
 Author-X-Name-Last: Brejtmoser
@@ -1595,9 +1595,9 @@ Author-Name: Daniel John Zizzo
 Author-X-Name-First:  Daniel	
 Author-X-Name-Last: Zizzo
 Author-Workplace-Name: Centre for Competition Policy and School of Economics, University of East Anglia
-Abstract: This paper presents an experimental study of dynamic indefinite horizon R and D races with uncertainty and multiple prizes. The theoretical predictions are highly sensitive: small parameter changes determine whether technological competition is sustained over time or converges into a market structure with an entrenched leadership and lower aggregate R and D research. The subjects' strategies are far less sensitive. In three out of four treatments (with the exception being a control treatment), the R and D races tend to converge to entrenched leadership. Investment is highest when rivals are close, and there is evidence of average over-investment.
+Abstract: This paper presents an experimental study of dynamic indefinite horizon R&D races with uncertainty and multiple prizes. The theoretical predictions are highly sensitive: small parameter changes determine whether technological competition is sustained over time or converges into a market structure with an entrenched leadership and lower aggregate R&D research. The subjects' strategies are far less sensitive. In three out of four treatments (with the exception being a control treatment), the R&D races tend to converge to entrenched leadership. Investment is highest when rivals are close, and there is evidence of average over-investment.
 Classification-JEL: C72; C91; O31.
-Keywords: R and D race; innovation; dynamics; experiment.
+Keywords: R&D race; innovation; dynamics; experiment.
 Number: 2006-11
 Creation-Date: 20060701
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-06-11.pdf
