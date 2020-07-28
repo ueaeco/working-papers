@@ -9,7 +9,7 @@ Author-X-Name-First: Paula
 Author-X-Name-Last: Lorgelly
 Author-Workplace-Name: Centre for Health Economics, Monash University
 Abstract: Procurement within the NHS is attracting increasing research and policy interest. However, most of the emphasis has been on the buyer (the NHS), with less attention paid to the behaviour of suppliers (often pharmaceutical companies). For medical devices very little is publicly documented about procurement and even less about the supplying industry. This paper uses a case study of artificial hip prostheses to indirectly explore how procurement choices are made within the NHS. We recognise the roles of the various players (patient, surgeon and hospital procurement department) when purchases are made from a potentially highly oligopolistic supplying industry. Using data from the National Joint Registry for England and Wales, we show that the supplying industry is indeed highly oligopolistic, with the potential for the exercise of market seller power. At the national level the NHS as a whole purchases from the equivalent of just four large sellers. However, typically individual hospitals are buying from only two, or in some instances one seller. Given this backdrop, we develop a theoretical framework explaining prosthesis choice, considering the roles and preferences of the patient, surgeon, hospital and supplier. This provides a set of hypotheses tested using an econometric model in which the diversity of prosthesis choice at the hospital level is explained by a vector of patient and hospital characteristics. This reveals little evidence that patient heterogeneity is a major determinant of diversity of procurement choices. More important are hospital size (which will be related to the number of surgeons), status of the hospital, recent NHS reforms and the potential role of the supplier. These findings provide a basis for future survey analysis of surgeons and hospital procurement departments designed to discover more directly how decisions are made and how suppliers bargain with hospitals.
-Classification-JEL: I11, I18, L11, L113, L25
+Classification-JEL: I11, I18, L11, L13, L25
 Keywords: Medical devices, competition, concentration, diversification,
 oligopoly, buyer power
 Number: 2013-13
@@ -94,8 +94,8 @@ Author-X-Name-First: Frederick
 Author-X-Name-Last: Wandschneider
 Author-Workplace-Name: School of Economics, University of East Anglia
 Abstract: In order to deter collusion and punish the infringement of competition law, anti-trust authorities run costly investigations and levy fines on detected and convicted wrongdoers. Across countries, the resources committed to anti-trust investigations and the fine level vary. According to Becker (1968) different combinations of magnitude of fine and likelihood of detection are substitutable in their deterrence effect. Since detection depends on costly investigation, it is optimal to minimize detection efforts and impose high fines. Recently the UK Office of Fair Trading faced a budget reduction that may affect detection efforts, while it simultaneously increased colluding firms fines from 10% to 30% of its annual turnover. Experimental support for the Beckerian Proposition is mixed in different contexts, and it is not known from a behavioural perspective how effective this type of policy design would be in a market. We address this issue through a market experiment to study the effects of magnitude and likelihood of fines on cartel activity, prices and collusive stability. We find that, in the absence of a leniency program, complying with the Beckerian Proposition, detection rates and fines are indeed substitutable. In the presence of a leniency program, however, a regime that embodies low rates of detection and high fines reduces the propensity to collude and lowers the overall incidence of cartelized markets significantly more than a high detection and low fine regime. This indicates that antitrust agencies can economize on enforcement costs and achieve a higher degree of deterrence by imposing higher level of fines.
-Classification-JEL: Experiment; Antitrust; Cartels; Deterrence; Illegal Behavior and the Enforcement of Law; Leniency.
-Keywords: C92; D03; K42; L4.
+Classification-JEL: C92; D03; K42; L4 
+Keywords: Experiment; Antitrust; Cartels; Deterrence; Illegal Behavior and the Enforcement of Law; Leniency.
 Number: 2013-09
 Creation-Date: 20131009
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-13-09.pdf
@@ -385,7 +385,7 @@ Author-Name: Richard Cadman
 Author-X-Name-First: Richard
 Author-X-Name-Last: Cadman
 Author-Workplace-Name: Centre for Competition Policy, University of East Anglia
-Abstract: A “reference offer” for Local Loop Unbundling was first published in the UK in December 2000, but by the end of 2005 just 2% of competitive copper access lines used LLU, compared with 56% in France. In 2005 Ofcom, introduced policy changes to commercialise LLU, which has increased to around 70% of competitive copper access lines. This paper measures the impact of Ofcom’s policy changes and concludes that these policy changes induced both the innovation and diffusion of LLU. The paper concludes that it is insufficient for regulators simply to mandate access: they must also ensure commercially attractive, non-discriminatory terms.
+Abstract: A "reference offer" for Local Loop Unbundling was first published in the UK in December 2000, but by the end of 2005 just 2% of competitive copper access lines used LLU, compared with 56% in France. In 2005 Ofcom, introduced policy changes to commercialise LLU, which has increased to around 70% of competitive copper access lines. This paper measures the impact of Ofcom’s policy changes and concludes that these policy changes induced both the innovation and diffusion of LLU. The paper concludes that it is insufficient for regulators simply to mandate access: they must also ensure commercially attractive, non-discriminatory terms.
 Classification-JEL: 
 Keywords: 
 Number: 2012-08
@@ -612,22 +612,6 @@ File-Function: main text
 Handle: RePEc:uea:ueaccp:2011_12
 
 Template-Type: ReDIF-Paper 1.0
-Title: 
-Author-Name: 
-Author-X-Name-First: 
-Author-X-Name-Last: 
-Author-Workplace-Name: 
-Abstract: 
-Classification-JEL: 
-Keywords: 
-Number: 2011-12
-Creation-Date: 20110701
-File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-11-11.pdf
-File-Format: application/pdf
-File-Function: main text
-Handle: RePEc:uea:ueaccp:2011_11
-
-Template-Type: ReDIF-Paper 1.0
 Title: Storing Wind for a Rainy Day What kind of electricity does Denmark export?
 Author-Name: Richard Green
 Author-X-Name-First: Richard
@@ -782,7 +766,7 @@ Author-X-Name-First: Dionisia
 Author-X-Name-Last: Tzavara
 Author-Workplace-Name: Department of Economics, University of Peloponnese 
 Abstract: Green electricity tariffs are a means by which ‘green consumers' can contribute to investment in renewable energy. In order to conceptualize factors constraining the adoption of green electricity tariffs this paper develops a model that links the willingness-to-pay (WTP) literature with the established innovation diffusion literature. This concern arises from a need to reconcile the large disparities that have been empirically observed between the proportion of households actually adopting green electricity tariffs and the proportion in WTP surveys that claim they would (Stated-Willingness-to-Adopt or SWA). Using the Bass Model as the point of departure our model depicts how increasing consumer environmental concern, driven by word-of-mouth and mass media communication channels, results in an increasing proportion of households with a SWA. The presence of response bias and the free rider problem result in 'feasible adoption' being below the SWA. Feasible adoption is, in turn, differentiated from actual adoption by the extent of market imperfections, such as the supply side problems and regulatory failures often discussed in the empirical literature.
-Classification-JEL: 033, Q51, Q28, Q48, H31
+Classification-JEL: O33, Q51, Q28, Q48, H31
 Keywords: Innovation diffusion; Willingness-to-pay; EU Energy Policy; Financing renewables; Green consumerism; Green electricity
 Number: 2011-03
 Creation-Date: 20110101
@@ -1434,7 +1418,7 @@ Creation-Date: 20081001
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-08-24.pdf
 File-Format: application/pdf
 File-Function: main text
-Handle: RePEc:uea:ueaccp:2008_21
+Handle: RePEc:uea:ueaccp:2008_24
 
 Template-Type: ReDIF-Paper 1.0
 Title: Software Marketing on the Internet: the Use of Samples and Repositories
@@ -1467,7 +1451,7 @@ Author-X-Name-First: Daniel
 Author-X-Name-Last: Zizzo
 Author-Workplace-Name: Centre for Competition Policy and School of Economics, University of East Anglia
 Abstract: This paper presents an experimental study of dynamic indefinite horizon R and D races with uncertainty and multiple prizes. The theoretical predictions are highly sensitive: small parameter changes determine whether technological competition is sustained, or converges into a market structure with an entrenched leadership and lower aggregate R and D. The subjects' strategies are far less sensitive. In most treatments, the R and D races tend to converge to entrenched leadership. Investment is highest when rivals are close. This stylized fact, and so the usefulness of neck-to-neck competition in general, is largely unrelated to rivalry concerns but can be explained using a quantal response extension of Markov perfection.
-Classification-JEL: C72, C91, 031
+Classification-JEL: C72, C91, O31
 Keywords: R and D race; innovation; dynamics; experiment
 Number: 2008-22
 Creation-Date: 20080301
@@ -1519,8 +1503,8 @@ Author-X-Name-First: Andreas
 Author-X-Name-Last: Stephan
 Author-Workplace-Name: Centre for Competition Policy and Norwich Law School, University of East Anglia
 Abstract: A criminal offence requiring Ghosh dishonesty was introduced in the UK by the Enterprise Act 2002, primarily to enhance cartel deterrence as a complement to corporate fines. Yet the first convictions resulted from a US plea bargain in 2008. This paper identifies three obstacles to enhancing deterrence through the cartel offence. First, Norris v USA and a public survey suggest relatively weak perceptions of cartels persist in the UK. It was envisaged that convictions would remedy this, but prosecutors will continue to be very selective about the cases they bring to trial if there are doubts as to whether price fixing alone is viewed as objectively dishonest. Secondly, any increase in criminal enforcement risks discouraging leniency applications to the European Commission, because corporate immunity granted on the Community level does not automatically protect employees from criminal prosecution in national courts. There is also no conclusive mechanism for direct settlement, as there is in the US. Thirdly, sizeable benefits and purportedly low detection rates mean deterrence may be weak if custodial sentences do not become the norm. Further sanctions such as Director Disqualification Orders can play an important role in ensuring cartelists do not seek immediate reemployment at a high level.
-Classification-JEL: Cartel offence; deterrence; dishonesty; Enterprise Act 2002; Norris v USA
-Keywords: K14, K21, L40, L41
+Classification-JEL: K14, K21, L40, L41
+Keywords: Cartel offence; deterrence; dishonesty; Enterprise Act 2002; Norris v USA
 Number: 2008-19
 Creation-Date: 20081101
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-08-19.pdf
