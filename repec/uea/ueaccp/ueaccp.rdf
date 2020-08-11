@@ -1,4 +1,92 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Product line extensions under the threat of entry: evidence from the UK pharmaceuticals market
+Author-Name: Farasat A.S. Bokhari
+Author-X-Name-First: Farasat
+Author-X-Name-Last: Bokhari
+Author-Workplace-Name: School of Economics and Centre for Competition Policy, University of East Anglia
+Author-Name: Weijie Yan
+Author-X-Name-First: Weijie
+Author-X-Name-Last: Yan
+Author-Workplace-Name: Economic and Social Research Institute, Ireland and Department of Economics, Trinity College Dublin, Ireland
+Abstract: Do firms increase product lines to deter entry and, if so, when is such a strategy successful? We use data from the UK pharmaceuticals to examine how incumbents respond to change in the threat of entry. In line with the entry deterrence motive, originators' product launch rate is higher when the risk of entry is moderate, but becomes lower when entry is very likely, and the e
+ect is most pronounced in medium size markets. We further find that in medium size markets, originators can deny entry via proliferation if they fill the product space evenly across patients so that each variant has a significant market share of the originators drugs. This does not work in large markets, but here entry is deterred when originators engage in product hopping, i.e., shift most of the patients to newer variants of the drug that may still be protected by intellectual property.
+Classification-JEL: L40, L12, I11, L79
+Keywords: Product proliferation, product hopping, entry deterrence, pharmaceuticals, hazard models
+Number: 2020-04
+Creation-Date: 20200101
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-20-04.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaccp:2020_04
+
+
+Template-Type: ReDIF-Paper 1.0
+Title: Which bills are lobbied? Predicting and interpreting lobbying activity in the US.
+Author-Name: Ivan Slobozhan
+Author-X-Name-First: Ivan 
+Author-X-Name-Last: Slobozhan
+Author-Workplace-Name: Institute of Computer Science, University of Tartu
+Author-Name: Peter Ormosi
+Author-X-Name-First: Peter 
+Author-X-Name-Last: Ormosi
+Author-Workplace-Name: Centre for Competition Policy and Norwich Business School, University of East Anglia
+Author-Name: Rajesh Sharma
+Author-X-Name-First: Rajesh 
+Author-X-Name-Last: Sharma
+Author-Workplace-Name: Institute of Computer Science, University of Tartu
+Abstract: Using lobbying data from OpenSecrets.org, we offer several experiments applying machine learning techniques to predict if a piece of legislation (US bill) has been subjected to lobbying activities or not. We also investigate the influence of the intensity of the lobbying activity on how discernible a lobbied bill is from one that was not subject to lobbying. We compare the performance of a number of different models (logistic regression, random forest, CNN and LSTM) and text embedding representations (BOW, TF-IDF, GloVe, Law2Vec). We report results of above 0.85% ROC AUC scores, and 78% accuracy. Model performance significantly improves (95% ROC AUC, and 88% accuracy) when bills with higher lobbying intensity are looked at. We also propose a method that could be used for unlabelled data. Through this we show that there is a considerably large number of previously unlabelled US bills where our predictions suggest that some lobbying activity took place. We believe our method could potentially contribute to the enforcement of the US Lobbying Disclosure Act (LDA) by indicating the bills that were likely to have been affected by lobbying but were not led as such.
+Classification-JEL: 
+Keywords: lobbying; rent seeking; text classification; US bills
+Number: 2020-03
+Creation-Date: 20200101
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-20-03.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaccp:2020_03
+
+
+Template-Type: ReDIF-Paper 1.0
+Title: The Problem of Earlier Rights: Evidence from the European Trademark System
+Author-Name: Georg von Graevenitz
+Author-X-Name-First: Georg 
+Author-X-Name-Last: von Graevenitz
+Author-Workplace-Name: Queen Mary University, CCP and CREATe
+Author-Name: Stuart J.H. Graham
+Author-X-Name-First: Stuart
+Author-X-Name-Last: Graham
+Author-Workplace-Name: Georgia Institute of Technology
+Author-Name: Amanda Myers
+Author-X-Name-First: Amanda 
+Author-X-Name-Last: Myers
+Author-Workplace-Name: United States Patent and Trademark Office
+Abstract: Laws protecting intellectual property rights balance interests of earlier and later rights holders. The tradeoffs are well established for patents. We argue that similar considerations apply to trademarks. Jurisdictions differ in how strongly they protect earlier rights, with EU trademark law protecting the registered use of an earlier right for much longer than US trademark law. Laws in both jurisdictions seek to eventually align registered use of earlier rights with their actual use, creating space on the trademark register for later rights. Data from a recent reform of trademark fees reveal that registered and actual use of EU marks frequently fail to align as intended. We analyse trademark opposition cases at EUIPO to test whether this creates costs for owners of later rights. We find that a subset of firms relies on the protection afforded to earlier rights to permanently expand the breadth of their marks beyond actual use, limiting access to trademarks for later applicants. We discuss policy implications.
+Classification-JEL: 
+Keywords: Trademark, Clutter, Opposition, Non-use, Barriers to entry.
+Number: 2020-02
+Creation-Date: 20200311
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-20-02.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaccp:2020_01
+
+
+Template-Type: ReDIF-Paper 1.0
+Title: The supply side to procurement in a health market: competition and innovation in hip implants
+Author-Name: Charlotte Davies
+Author-X-Name-First: Charlotte 
+Author-X-Name-Last: Davies
+Author-Workplace-Name: Norwich Medical School & Centre for Competition Policy, University of East Anglia
+Abstract: Most research on procurement of medical devices focuses on buyer behaviour e.g. in the UK, purchasing strategies by the NHS. This paper is a rare case study of the other side of the market. We investigate competition in the artificial hip implant market in England and Wales, using National Joint Registry data for 2005-18. The analysis is in three parts. We first proceed as would a competition agency, by assessing the nature and structure of the market. We find a highly concentrated duopolistic market structure, in which there has been no significant entry or exit, except a merger between the much smaller 3rd and 4th largest suppliers. Viewed through the eyes of a competition economist, such a structure might be indicative of weak competition. However, concentration is not necessarily synonymous with low competition: it might be that technology dictates that only a small number of firms can survive profitably in the market, but that there is still the cut and thrust of competition leading to forever changing identities of the leading firms. In the second part of the paper, we address these possibilities in two ways, using a novel exploration of market share dynamics and an international comparison. On dynamics, we find an important difference between the two sectors of the market: in traditional cemented prostheses, there is little evidence of any share mobility amongst firms. Indeed, the only discernible change is that Stryker, already the dominant firm, has steadily further increased its market share over time. On the other hand, the uncemented sector has exhibited much more share mobility. Interpreting the uncemented sector as a comparator, this suggests the need for further investigation of the cemented sector. This conclusion is also indirectly reinforced by an international comparison of market structure, from which the most striking feature is the much larger market share of Stryker than in any other European country. In the third part of the paper, we explore the performance of the firms concerned, using innovation as the measure. We find only limited evidence of the emergence of new brands of implants - the smaller suppliers have had little success in introducing new brands and the two main suppliers appear to have concentrated on updating their existing brands. There is also little evidence of competition from generic brands, (in contrast to the picture in many parts of the pharmaceutical sector). Looking to the future, our findings are not necessarily conclusive evidence of a weakly performing, anti-competitive market, but they are sufficient to justify further more micro-survey research to identify the preferences and practices of the main players: surgeons, hospital procurement and the suppliers themselves. The need for such research is heightened by the fact that contemporary policy advice increasingly advocates that cemented prostheses should be preferred, especially for older patients.
+Classification-JEL: 
+Keywords: 
+Number: 2020-01
+Creation-Date: 20200101
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-20-01.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaccp:2020_01
+
+Template-Type: ReDIF-Paper 1.0
 Title: Market concentration, supply, quality and prices paid by Local Authorities in the English care home market
 Author-Name: Ferran Espuny Pujol
 Author-X-Name-First: Ferran 
