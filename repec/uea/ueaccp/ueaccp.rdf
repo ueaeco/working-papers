@@ -19,7 +19,6 @@ File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaccp:2020_04
 
-
 Template-Type: ReDIF-Paper 1.0
 Title: Which bills are lobbied? Predicting and interpreting lobbying activity in the US.
 Author-Name: Ivan Slobozhan
@@ -44,7 +43,6 @@ File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaccp:2020_03
 
-
 Template-Type: ReDIF-Paper 1.0
 Title: The Problem of Earlier Rights: Evidence from the European Trademark System
 Author-Name: Georg von Graevenitz
@@ -67,8 +65,7 @@ Creation-Date: 20200311
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-20-02.pdf
 File-Format: application/pdf
 File-Function: main text
-Handle: RePEc:uea:ueaccp:2020_01
-
+Handle: RePEc:uea:ueaccp:2020_02
 
 Template-Type: ReDIF-Paper 1.0
 Title: The supply side to procurement in a health market: competition and innovation in hip implants
@@ -234,8 +231,7 @@ Author-X-Name-Last: Yan
 Author-Workplace-Name: Centre for Competition Policy and School of Economics, University of East Anglia
 Abstract: Consumption of general purpose broad-spectrum antibiotics is associated with rising levels of antimicrobial resistance. Additionally, industry reports suggest that lack of profitability associated with narrowly targeted pathogens is a potential reason why firms are not undertaking new antibiotic related R&D. In this paper we use aggregate sales data on antibiotics from the UK to estimate a structural demand model and evaluate market performance of firms by spectral activity. We find that broad-spectrum antibiotics are more profitable than narrow-spectrum drugs, though the profitability has increased over time for both types due to a decline in costs, the costs of narrow stay higher. We simulate counterfactual scenarios to evaluate the effectiveness of cost-side interventions to shift demand from broad- to narrow-spectrum drugs. Using the last full year of data, simulations show that if unit costs of broad-spectrum were as high as those of narrow-spectrum antibiotics (say due to a unit tax), demand for broad-spectrum would fall by 28.1%, while that of narrow-spectrum would increase by 43.8%. The total cost of such an intervention would be $962 per thousand individuals or a total of $61.26 million, and is inclusive of change in consumer welfare and additional cost of testing for pathogens. Impact of other more selective taxes on subsets of broad-spectrum drugs is also analyzed.
 Classification-JEL: I11, I18, L11, L65
-Keywords: antimicrobial resistance, pharmaceuticals, demand estimation, policy simulation, welfare
-change
+Keywords: antimicrobial resistance, pharmaceuticals, demand estimation, policy simulation, welfare change
 Number: 2019-03
 Creation-Date: 20190101
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-19-03.pdf
@@ -404,7 +400,7 @@ File-Function: main text
 Handle: RePEc:uea:ueaccp:2018_06v3
 
 Template-Type: ReDIF-Paper 1.0
-Title: 
+Title: Competition and Welfare Effects of Differentiated Taxation: Evidence from the Irish Automobile Market
 Author-Name: Anna Rita Bennato
 Author-X-Name-First: Anna Rita
 Author-X-Name-Last: Bennato
