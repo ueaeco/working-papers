@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Developing international perspectives on digital competition policy
+Author-Name: Sean F. Ennis
+Author-X-Name-First: Sean
+Author-X-Name-Last: Ennis
+Author-Workplace-Name: Centre for Competition Policy and Norwich Business School, University of East Anglia
+Author-Name: Amelia Fletcher
+Author-X-Name-First: Amelia
+Author-X-Name-Last: Fletcher
+Author-Workplace-Name: Centre for Competition Policy and Norwich Business School, University of East Anglia
+Abstract: The year 2019 was a turning point in the debate around how to address competition issues in digital platform markets. At the start of the year, the focus was on reform of competition law. By July, there had been calls – on both sides of the Atlantic – for pro-competitive ex ante regulation. This paper considers these developments through the lens of three influential expert reports, from the EC, UK and US. While the reports offer similar diagnoses of the underlying economic drivers of competition concerns in digital platform markets, they reach somewhat different policy conclusions. The EC report, which was commissioned first, highlights recommendations for antitrust. While it recognises that a regulatory regime may be needed in the longer run, this option is not considered in any detail. By contrast, the UK and US expert reports argue strongly for ex ante regulation. There are other differences too. While the US and EC experts were inclined to relax or reverse burdens of proof for both mergers and abuse of dominance, albeit in specified circumstances only, the UK experts did not recommend this. This paper compares these reports under the categories of mergers, dominance, data, regulation, and international.
+Classification-JEL: K21, L13, L40, L50, L86.
+Keywords: Antitrust, Competition Policy, Digital Markets, Platforms, Merger Policy, Regulation, Big Data
+Number: 2020-05
+Creation-Date: 20200824
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-20-05.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaccp:2020_05
+
+Template-Type: ReDIF-Paper 1.0
 Title: Product line extensions under the threat of entry: evidence from the UK pharmaceuticals market
 Author-Name: Farasat A.S. Bokhari
 Author-X-Name-First: Farasat
@@ -8,12 +28,11 @@ Author-Name: Weijie Yan
 Author-X-Name-First: Weijie
 Author-X-Name-Last: Yan
 Author-Workplace-Name: Economic and Social Research Institute, Ireland and Department of Economics, Trinity College Dublin, Ireland
-Abstract: Do firms increase product lines to deter entry and, if so, when is such a strategy successful? We use data from the UK pharmaceuticals to examine how incumbents respond to change in the threat of entry. In line with the entry deterrence motive, originators' product launch rate is higher when the risk of entry is moderate, but becomes lower when entry is very likely, and the e
-ect is most pronounced in medium size markets. We further find that in medium size markets, originators can deny entry via proliferation if they fill the product space evenly across patients so that each variant has a significant market share of the originators drugs. This does not work in large markets, but here entry is deterred when originators engage in product hopping, i.e., shift most of the patients to newer variants of the drug that may still be protected by intellectual property.
+Abstract: Do firms increase product lines to deter entry and, if so, when is such a strategy successful? We use data from the UK pharmaceuticals to examine how incumbents respond to change in the threat of entry. In line with the entry deterrence motive, originators' product launch rate is higher when the risk of entry is moderate, but becomes lower when entry is very likely, and the effect is most pronounced in medium size markets. We further find that in medium size markets, originators can deny entry via proliferation if they fill the product space evenly across patients so that each variant has a significant market share of the originators drugs. This does not work in large markets, but here entry is deterred when originators engage in product hopping, i.e., shift most of the patients to newer variants of the drug that may still be protected by intellectual property.
 Classification-JEL: L40, L12, I11, L79
 Keywords: Product proliferation, product hopping, entry deterrence, pharmaceuticals, hazard models
 Number: 2020-04
-Creation-Date: 20200101
+Creation-Date: 20200801
 File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-20-04.pdf
 File-Format: application/pdf
 File-Function: main text
