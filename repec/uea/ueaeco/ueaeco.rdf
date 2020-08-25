@@ -58,25 +58,7 @@ File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaeco:2019_06 
 
-Template-Type: ReDIF-Paper 1.0
-Title: Corporate self-regulation of imperfect competition.
-Author-Name: Herve Cres
-Author-X-Name-First: Herve
-Author-X-Name-Last: Cres
-Author-Workplace-Name: New York University in Abu Dhabi
-Author-Name: Mich Tvede
-Author-X-Name-First: Mich
-Author-X-Name-Last: Tvede
-Author-Workplace-Name: University of East Anglia
-Abstract: We consider Cournot competition in general equilibrium. Decisions in firms are taken by majority voting. Naturally, interests of voters–shareholders or stakeholders–depend on their endowments and portfolios. We introduce two notions of local Cournot-Walras equilibria to overcome difficulties arising from non-concavity of profit functions and multiplicity of equilibrium prices. We show existence of local Cournot-Walras equilibria, and characterize distributions of voting weights for which equilibrium allocations are Pareto optimal. We discuss the performance of various governances and highlight the importance of financial markets in regulating large firms.
-Classification-JEL: D41; D43; D51; D61; D71
-Keywords: Cournot-Walras equilibrium  Majority voting  Pareto optimality  Shareholder governance  Stakeholder democracy  Walrasian equilibria
-Number: 2019-05
-Creation-Date: 20200102
-File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-19-05.pdf
-File-Format: application/pdf
-File-Function: main text
-Handle: RePEc:uea:ueaeco:2019_05
+
 
 Template-Type: ReDIF-Paper 1.0
 Title: The Multivariate Random Preference Estimatorfor Switching Multiple Price List Data
