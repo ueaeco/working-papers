@@ -18,7 +18,29 @@ File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaeco:2019_08
 
-
+Template-Type: ReDIF-Paper 1.0
+Title: Birds of a Feather Lockdown Together: Mutual bird-human benefits during a global pandemic
+Author-Name: Michael Brock  
+Author-X-Name-First: Michael
+Author-X-Name-Last: Brock
+Author-Workplace-Name: University of East Anglia
+Author-Name: Jacqueline Doremus
+Author-X-Name-First: Jacqueline
+Author-X-Name-Last: Doremus
+Author-Workplace-Name: Department of Economics, California Polytechnic State University, San Luis Obispo, USA
+Author-Name: Liqing Li
+Author-X-Name-First: Liqing
+Author-X-Name-Last: Li
+Author-Workplace-Name: University of Illinois at Urbana-Champaign, Department of Agricultural and Consumer Economics, USA.
+Abstract: Feeding backyard wildlife has impure public good characteristics { it can satisfy specific human motivations whilst also improving bird populations. We document a surge in human interest in connecting with wild birds during lockdowns to address the Covid-19 pandemic. Using an event-study design at two scales and data representing three different population types, we find large increases in bird engagement that begin very soon after lockdown. The response is global: increases occur across 60 countries on six continents. However, people are sensitive to their environment, with evidence from the US showing a larger increase in engagement in states with more important bird habitat. Moreover, investments appear sustained, beginning with first bird feeders, then seed, then baths. Our work offers evidence of widespread benefts of human-wildlife interaction for humans and birds alike. We point to potential long-term effects of the Covid-19 pandemic on global bird populations and future support for bird habitat conservation. 
+Classification-JEL: Q26, Q57, H41
+Keywords: Covid-19, birds, bird feeding, connectivity, impure public goods
+Number: 2020-03
+Creation-Date: 20200622
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-19-07.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaeco:2020-03 
 
 Template-Type: ReDIF-Paper 1.0
 Title: Systemic Banking Crises: The Relationship Between Concentration and Interbank Connections.
