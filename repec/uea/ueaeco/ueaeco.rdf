@@ -42,21 +42,7 @@ File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaeco:2019_07 
 
-Template-Type: ReDIF-Paper 1.0
-Title: Systemic Banking Crises: The Relationship Between Concentration and Interbank Connections.
-Author-Name: Andrea Calef
-Author-X-Name-First: Andrea
-Author-X-Name-Last: Calef
-Author-Workplace-Name: University of East Anglia
-Abstract: In this paper I study the extent to which the nexus between concentration and interbank linkages affects financial stability, using data for a sample of 19,689 banks in 69 countries from 1995 to 2014. I find that high levels of interbank exposures decrease the probability of observing a systemic banking crisis, when the banking system is either highly concentrated or fragmented. The relationship between concentration and stability is found to be non-monotonic, as predicted by Martinez-Miera & Repullo (2010), although not U-shaped.
-Classification-JEL: G01, G21, G28
-Keywords: banking crisis, systemic risk, market structure; interbank linkages, network, contagion.
-Number: 2019-06
-Creation-Date: 20200115
-File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-19-06.pdf
-File-Format: application/pdf
-File-Function: main text
-Handle: RePEc:uea:ueaeco:2019_06 
+
 
 Template-Type: ReDIF-Paper 1.0
 Title: Corporate self-regulation of imperfect competition.
