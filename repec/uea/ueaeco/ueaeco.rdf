@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: An Alternative Bootstrap for Proxy Vector Autoregressions
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: University of East Anglia
+Author-Name: Helmut Lutkepohl
+Author-X-Name-First: Helmut
+Author-X-Name-Last: Lutkepohl
+Author-Workplace-Name: DIW Berlin and Freie Universitat Berlin
+Abstract: We propose a new bootstrap for inference for impulse responses in structural vector autoregressive models identied with an external proxy variable. Simulations show that the new bootstrap provides confidence intervals for impulse responses which often have more precise coverage than and similar length as the competing moving-block bootstrap intervals. An empirical example shows how the new bootstrap can be applied in the context of identifying monetary policy shocks.
+Classification-JEL:  C32
+Keywords: Bootstrap inference, structural vector autoregression, impulse responses, instrumental variable
+Number: 2020-06
+Creation-Date: 20201111
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-20-06.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaeco:2020-06
+
+Template-Type: ReDIF-Paper 1.0
 Title: Rewarding Allegiance: Political Alignment and Fiscal Outcomes in Local Government
 Author-Name: Christa N. Brunnschweiler
 Author-X-Name-First: Christa
