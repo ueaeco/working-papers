@@ -1,4 +1,27 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Depth of Reasoning Models with Sophisticated Agents
+Author-Name: Peter G Moffatt
+Author-X-Name-First: Peter G
+Author-X-Name-Last: Moffatt
+Author-Workplace-Name: School of Economics, University of East Anglia, Norwich. 
+Author-Name: Ganna Pogrebna 
+Author-X-Name-First: Ganna
+Author-X-Name-Last: Pogrebna
+Author-Workplace-Name: The Alan Turing Institute, The University of Sydney
+Author-Name: Graciela Zevallos-Porles 
+Author-X-Name-First: Graciela
+Author-X-Name-Last: Zevallos-Porles
+Author-Workplace-Name: School of Economics, University of East Anglia, Norwich. 
+Abstract: In the context of guessing games, we propose the Sophisticated Reasoning Model (SRM) which includes a “sophisticated” type. A parameter ps represents the proportion of sophisticated players in the population. Asophisticated player is one who forms a belief (eps) of the proportion of the population who are sophisticated (following the same cognitive process as themselves) and best responds to this belief. The model nests the standard Level-k and cognitive hierarchy models (when eps = 0) and also Nash behaviour (when eps = 1). Moreover, a sophisticated player with correct beliefs (eps = ps) has best response equal to the winning guess. The model is extended to allow heterogeneity in beliefs. When applied to field data from a guessing game, only 9% of players are estimated to be sophisticated, but these players greatly over-estimate the proportion who are of the same type. This is interpreted as a manifestation of the Dunning-Kruger effect.
+Keywords: Beauty contest game; Sophisticated reasoning model; Level k-model; Cognitive hierarchy model; Dunning-Kruger effect.
+Number: 20-06
+Creation-Date: 202012
+File-URL: https://ueaeco.github.io/working-papers/papers/cbess/UEA-CBESS-20-06.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:wcbess:20-06
+
+Template-Type: ReDIF-Paper 1.0
 Title: The impact of data visualisation on the use of shopper insight in the marketing decisionmaking of small food producers.
 Author-Name: Stefan Penczynski 
 Author-X-Name-First: Stefan
