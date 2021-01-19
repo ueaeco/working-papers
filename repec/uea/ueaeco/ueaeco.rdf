@@ -1,4 +1,28 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Gender and Gambling Preference
+Author-Name: Philomena Bacon
+Author-X-Name-First: Philomena
+Author-X-Name-Last: Bacon
+Author-Workplace-Name: University of East Anglia
+Author-Name: Anna Conte
+Author-X-Name-First: Anna
+Author-X-Name-Last: Conte
+Author-Workplace-Name: Department of Statistical Sciences, Sapienza University of Rome
+Author-Name: Peter G Moffatt
+Author-X-Name-First: Peter G
+Author-X-Name-Last: Moffatt
+Author-Workplace-Name: University of East Anglia
+Abstract: Gambling preferences are analysed using survey data from the wider population. Respondents were confronted with a hypothetical lottery question, in which they were asked to imagine having just won a large prize, and asked how much of this prize they would be willing to invest in a further gamble. We observe the majority of respondents avoiding the gamble altogether. We demonstrate that such behaviour cannot easily be explained by standard models of choice under risk, since it implies implausible degrees of risk aversion. We propose that the observed behaviour can instead be explained in terms of gambling aversion. Since the decision variable takes the form of the number of \units" of the prize that the respondent wishes to invest in the gamble, and since the decision is observed twice for some respondents, we adopt the panel version of the Zero-Inated Poisson model as an econometric framework. We assume that individual characteristics affect both stages of the decision-making process. We are particularly interested in the effect of gender, and we find that males have a significantly higher probability of participating in the gamble, and are also (conditional on gambling) prepared to gamble significantly larger amounts.
+Classification-JEL: C33; D01; J16
+Keywords: Gambling behaviour; Gender; Panel Zero-Inated Poisson model; Survey Data
+Number: 2020-07
+Creation-Date: 20210119
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-20-07.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaeco:2020-07
+
+Template-Type: ReDIF-Paper 1.0
 Title: An Alternative Bootstrap for Proxy Vector Autoregressions
 Author-Name: Martin Bruns
 Author-X-Name-First: Martin
