@@ -21,6 +21,7 @@ File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-19-01R.pdf
 File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaccp:2019_01R
+
 Template-Type: ReDIF-Paper 1.0
 Title: The economics of potential price gouging during Covid-19 and the application to complaints received by the CMA
 Author-Name: San Sau Fung
@@ -350,12 +351,12 @@ Author-Workplace-Name: United States Patent & Trademark Office
 Abstract: This paper introduces a new innovation data source to re-examine how spatial distance affects the diffusion of ideas and innovations in an economy. We exploit the descriptions of products and services contained in U.S. trademark registrations during 1980-2012 to identify terms (tokens) not previously used by firms to describe products and services. From these we select tokens frequently re-used by follower firms. By linking the new tokens to the business addresses of innovator and follower firms, our data encompass all instances in which innovations captured by trademark tokens arise within and diffuse across the United States. We aggregate innovations at the year and ZIP code level and estimate Poisson models of the likelihood and intensity of diffusion between locations. After endogenising the creation of new diffusion links between ZIP codes, our results show that spatial distance no longer affects the creation of diffusion links within the US after 1996. However, contingent on previous diffusion from a sending to a receiving ZIP code, we find persistent, strong and negative effects of greater spatial distance on the intensity (extent) of diffusion for existing transfer links between locations within the US.
 Classification-JEL: O3, O51, R1, R32
 Keywords: Innovation, Diffusion, Rate of Diffusion, Distance, Innovation Index, Trademarks, Patents
-Number: 2019-05
+Number: 2019-05R
 Creation-Date: 20190801
-File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-19-05.pdf
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-19-05R.pdf
 File-Format: application/pdf
 File-Function: main text
-Handle: RePEc:uea:ueaccp:2019_05
+Handle: RePEc:uea:ueaccp:2019_05R
 
 Template-Type: ReDIF-Paper 1.0
 Title: Consumer Uptake of Internet Banking, Endogenous Market Structure and Regional Integration in Europe
