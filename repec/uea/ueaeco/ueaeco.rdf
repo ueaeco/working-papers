@@ -18,7 +18,25 @@ File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaeco:2021-05
 
-
+Template-Type: ReDIF-Paper 1.0
+Title: Comparison of Local Projection Estimators for Proxy Vector Autoregressions
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: University of East Anglia
+Author-Name: Helmut Luetkepohl
+Author-X-Name-First: Helmut
+Author-X-Name-Last: Luetkepohl
+Author-Workplace-Name: DIW Berlin and The Free University of Berlin
+Abstract: Different local projection (LP) estimators for structural impulse responses of proxy vector autoregressions are reviewed and compared algebraically and with respect to their small sample suitability for inference. Conditions for numerical equivalence and similarities of some estimators are provided. A new LP type estimator is also proposed which is very easy to compute. Two generalized least squares (GLS) projection estimators are found to be more accurate than the other LP estimators in small samples. In particular, a lag-augmented GLS estimator tends to be superior to its competitors and to perform as well as a standard VAR estimator for sufficiently large samples.     
+Classification-JEL: C32
+Keywords: Structural vector autoregression, local projection, impulse responses, instrumental variable
+Number: 2021-04
+Creation-Date: 20210528
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-21-04.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaeco:2021-04
 
 Template-Type: ReDIF-Paper 1.0
 Title: By Chance or by Choice? Biased Attribution of Others'Outcomes when Social Preferences Matter
