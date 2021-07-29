@@ -22,25 +22,6 @@ File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaeco:2021-06
 
-Template-Type: ReDIF-Paper 1.0
-Title: Growth with Deadly Spillovers
-Author-Name: Pietro F. Peretto
-Author-X-Name-First: Pietro
-Author-X-Name-Last: Peretto
-Author-Workplace-Name: Duke University
-Author-Name: Simone Valente
-Author-X-Name-First: Simone
-Author-X-Name-Last: Valente
-Author-Workplace-Name: University of East Anglia
-Abstract: Pollution is one of the world's primary causes of premature death, but macroeconomic analysis largely neglects the existence of such negative externality. We build a tractable multi-sector growth model where innovations raise productivity, a polluting primary sector exploits natural resources, emissions increase mortality, and fertility is endogenous. The response of the mortality rate to changes in population size is generally ambiguous and often non-monotonic, and reflects a precise equilibrium relationship that combines emission intensity, dilution e¤ects and labor reallocation e¤ects caused by technology. Deadly spillovers a¤ect welfare through multiple channels - including market-size e¤ects - and create additional steady states, including mortality traps that undermine development in less populated resource-rich countries even for low emission elasticities. Emission taxes yield double dividends in terms of income and population capacity, whereas subsidies to primary production reduce potential population and may trigger population implosion especially if combined with new discoveries of polluting primary resources.    
-Classification-JEL: O12, O44, Q56
-Keywords: Endogenous Growth, Environmental Externalities, Mortality
-Number: 2021-05
-Creation-Date: 20210528
-File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-21-05.pdf
-File-Format: application/pdf
-File-Function: main text
-Handle: RePEc:uea:ueaeco:2021-05
 
 Template-Type: ReDIF-Paper 1.0
 Title: Comparison of Local Projection Estimators for Proxy Vector Autoregressions
