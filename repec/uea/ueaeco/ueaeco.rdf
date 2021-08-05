@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Monetary policy shocks over the business cycle: Extending the Smooth Transition framework
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: University of East Anglia
+Author-Name: Michele Piffer
+Author-X-Name-First: Michele
+Author-X-Name-Last: Piffer
+Author-Workplace-Name: King's College London
+Abstract: We extend the Smooth Transition Vector Autoregressive model to allow for identification via a combination of external instruments and sign restrictions, while estimating rather than calibrating the parameters ruling the nonlinearity of the model. We hence oer an alternative to using the recursive identification with selected calibrated parameters, which is the main approach currently available. We use the model to study how the effects of monetary policy shocks change over the business cycle. We show that financial variables, inflation and output respond to a monetary shock more in a recession than in an expansion, in line with the predictions from the financial accelerator literature.    
+Classification-JEL: C32, E52
+Keywords: Nonlinear models, proxy SVARs, monetary policy shocks, sign restrictions.
+Number: 2021-07
+Creation-Date: 20210805
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-21-07.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaeco:2021-07
+
+Template-Type: ReDIF-Paper 1.0
 Title: Financial Intermediation and Structural Change: Theory and Evidence
 Author-Name: David Jones
 Author-X-Name-First: David
