@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Heteroskedastic Proxy Vector Autoregressions: Testing for Time-Varying Impulse Responses in the Presence of Multiple Proxies 
+Author-Name: Martin Bruns 
+Author-X-Name-First: Martin 
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: School of Economics, University of East Anglia, Norwich 
+Author-Name: Helmut Luetkepohl
+Author-X-Name-First: Helmut   
+Author-X-Name-Last: Luetkepohl 
+Author-Workplace-Name: DIW Berlin and Freie Universitaet Berlin 
+Abstract: We propose a test for time-varying impulse responses in heteroskedastic structural vector autoregressions that can be used when the shocks are identified by external proxy variables as a group. The test can be used even if the shocks are not identified individually. The asymptotic analysis is supported by small sample simulations which show good properties of the test. An investigation of the impact of productivity shocks in a small macroeconomic model for the U.S. illustrates the importance of the issue for empirical work.
+Classification-JEL: C32
+Keywords: Structural vector autoregression, proxy VAR, heteroskedasticity, productivity shocks
+Number: 2022-02
+Creation-Date: 20220530
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2022-02.pdf 
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2022-02
+
+Template-Type: ReDIF-Paper 1.0
 Title: Technology of Cultural Transmission I: The Printing Press
 Author-Name: David Hugh-Jones
 Author-X-Name-First: David 
