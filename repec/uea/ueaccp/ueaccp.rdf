@@ -1,6 +1,26 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Do the poor pay more for increasing market concentration? A study of retail petroleum 
+Author-Name: Franco Mairuzzo
+Author-X-Name-First: Franco
+Author-X-Name-Last: Mariuzzo
+Author-Workplace-Name: Centre for Competition Policy and School of Economics, University of East Anglia
+Author-Name: Peter Ormosi
+Author-X-Name-First: Peter
+Author-X-Name-Last: Ormosi
+Author-Workplace-Name: Centre for Competition Policy and Norwich Business School, University of East Anglia
+Abstract: One of the central tenets of industrial organisation is that increasing/decreasing market concentration is likely to lead to increased/reduced markups. But does this affect every consumer to the same extent? Previous literature agrees that there can be significant price dispersion even in the case of homogeneous goods, which is at least partially due to the heterogeneity in how much consumers engage with the market. We link this heterogeneity to the impact of changing market concentration on markups. For this purpose, we employ a combination of 18 years of station-level motor fuel price data from Western Australia and a rich set of information on local market concentration. We summon a non-parametric causal forest approach to explore the heterogeneity in the effect of market exit/entry. The paper offers evidence of the distributional effect of changing market concentration. Areas with lower income experience a larger increase in petrol stations’ price margin as a result of market exit. On the other hand, entry does not benefit the same low-income areas with a larger reduction in the margin than in high-income areas. We argue that these findings are due to differences in how much consumers in different demographic groups engage with the market. Our findings give support to the argument that antitrust could help address inequality while staying true to its mission of promoting competition, provided that priorities are given to not only fixing supply-side problems but also to exploring demand-side remedies.
+Classification-JEL: 
+Keywords: inequality, market concentration, income, consumer search, causal forests, petrol
+Number: 2021-08
+Creation-Date: 20220708
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-21-08.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaccp:2021_08
+
+Template-Type: ReDIF-Paper 1.0
 Title: CK Telecoms and the New Frame of Reference for the Analysis of Unilateral Effects in EU Merger Control
-Author-Name: Elias
+Author-Name: Elias Deutscher
 Author-X-Name-First: Elias
 Author-X-Name-Last: Deutscher
 Author-Workplace-Name: Centre for Competition Policy and School of Law, University of East Anglia
@@ -16,7 +36,7 @@ Handle: RePEc:uea:ueaccp:2021_07
 
 Template-Type: ReDIF-Paper 1.0
 Title: The Price Fixer: Compliance Tales from the Other Side
-Author-Name: Andreas
+Author-Name: Andreas Stephan
 Author-X-Name-First: Andreas
 Author-X-Name-Last: Stephan
 Author-Workplace-Name: Centre for Competition Policy and School of Law, University of East Anglia
