@@ -1,4 +1,20 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Competition and Concentration: Charting the Faultlines
+Author-Name: Stephen Davies
+Author-X-Name-First: Stephen
+Author-X-Name-Last: Davies
+Author-Workplace-Name: Centre for Competition Policy and School of Economics, University of East Anglia
+Abstract: This work addresses the widespread concern that the forces of competition are weakening worldwide. Much of the evidence for this comes from traditional concentration indices which are notoriously flawed: conceptually they derive from static theory and cannot discriminate between efficiency and market power; empirically, they employ over-aggregate market definitions and ignore international competition. This paper is the first in a programme of research with the objective of resolving some of these problems. The first part of the paper provides a succinct picture of the facts on the HHI index for over 300 UK industries at the 4-digit-level; given data constraints, these refer to producer concentration, ignoring imports and exports. We find that, on average, concentration rose steadily 1998-2011 and remained high thereafter, 2011-2018. About 30% of industries, defined at the 4-digit level, can be classified as “concentrated” or “highly concentrated” using traditional competition authority definitions. In the second part, we provide some indications of how this picture will likely change if we could recompute concentration indices at the more appropriate Anti-Trust Market level and incorporating information on trade competition and exports. High concentration is likely to be even more prevalent at the ATM level, but results might look very different for the sub-set of trade-intensive industries, if we could incorporate trade data into the concentration measures. In the third part, we turn to the major conceptual problem: how to measure competition avoiding the identification problems associated with concentration indices and incorporating a richer dynamic vision of competition as a process. Using an admittedly primitive measure (based on the persistence of leadership rankings within an industry), our early results suggest an increasing tendency for the largest firms to retain their leadership positions over this period. This points to reduced churn in market shares and weakening competition, especially as leadership persistence is found to be more pronounced in more concentrated industries.
+Classification-JEL: 
+Keywords: Competition, concentration
+Number: 2021-11
+Creation-Date: 20220708
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-21-11.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:ueaccp:2021_11
+
+Template-Type: ReDIF-Paper 1.0
 Title: Do nudges increase consumer search and switching? Evidence from financial markets
 Author-Name: Zita Vasas
 Author-X-Name-First: Zita
@@ -9,7 +25,7 @@ Classification-JEL:
 Keywords: Consumers, switching, financial markets
 Number: 2021-10
 Creation-Date: 20220708
-File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-21-20.pdf
+File-URL: https://ueaeco.github.io/working-papers/papers/ccp/CCP-21-10.pdf
 File-Format: application/pdf
 File-Function: main text
 Handle: RePEc:uea:ueaccp:2021_10
