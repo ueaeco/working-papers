@@ -1,4 +1,32 @@
 Template-Type: ReDIF-Paper 1.0
+Title: The Can Challenge: How important are user-generated data for search result quality? Experimental evidence
+Author-Name: Tobias J. Klein
+Author-X-Name-First: Tobias J.
+Author-X-Name-Last: Klein 
+Author-Workplace-Name: Tilburg School of Economics and Management, Tilburg University & C.E.P.R. 
+Author-Name: Madina Kurmangaliyeva
+Author-X-Name-First: Madina  
+Author-X-Name-Last: Kurmangaliyeva 
+Author-Workplace-Name: ECARES, Universite Libre de Bruxelles
+Author-Name: Jens Prufer
+Author-X-Name-First: Jens    
+Author-X-Name-Last: Prufer
+Author-Workplace-Name: School of Economics and Centre for Competition Policy, University of East Anglia
+Author-Name: Patricia Prufer
+Author-X-Name-First: Patricia    
+Author-X-Name-Last: Prufer
+Author-Workplace-Name: CentERdata, Tilburg University
+Abstract: Do some search engines produce better search results because their algorithm is better, or because they have access to more data from past searches? In the latter case, mandatory data sharing, a policy that is currently discussed, could trigger innovation and would benefit all users of search engines. We document that the algorithm of a small search engine can produce non-personalized results that are of similar quality than Googles, if it has enough data, and that overall differences in the quality of search results are explained by searches for less popular search terms. This is confirmed by results from an experiment, in which we keep the algorithm of the search engine fixed and vary the amount of data it uses as an input.
+Classification-JEL:
+Keywords: 
+Number: 2022-07
+Creation-Date: 202209
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2022-07.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2022-07
+
+Template-Type: ReDIF-Paper 1.0
 Title: The Can Challenge: Understanding the best ways to incentive recycling through a diffusion approach
 Author-Name: Michael Brock
 Author-X-Name-First: Michael 
