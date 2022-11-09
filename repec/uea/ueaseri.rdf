@@ -5,11 +5,11 @@ Description:  Research papers from the members of the School of Economics
 Type: ReDIF-Paper
 Provider-Name: School of Economics, University of East Anglia, Norwich, UK. 
 Provider-Homepage: http://www.uea.ac.uk/economics
-Provider-Phone: 44 1603 591131
+Provider-Phone: 44 1603 592941
 Provider-Institution: RePEc:edi:esueauk
-Maintainer-Name: Thomas Cushan
-Maintainer-Email: T.Cushan@uea.ac.uk
-Order-Email: eco.reception@uea.ac.uk
+Maintainer-Name: Cara Liggins
+Maintainer-Email: ECO.reception@uea.ac.uk
+Order-Email: ECO.reception@uea.ac.uk
 Order-Postal: Reception, School of Economics, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
 Handle: RePEc:uea:ueaeco
 Predecessor: RePEc:uea:aepppr
@@ -21,11 +21,11 @@ Description:  Research papers from the members of the School of Economics
 Type: ReDIF-Paper
 Provider-Name: School of Economics, University of East Anglia, Norwich, UK. 
 Provider-Homepage: http://www.uea.ac.uk/economics
-Provider-Phone: 44 1603 591131
+Provider-Phone: 44 1603 592941
 Provider-Institution: RePEc:edi:esueauk
-Maintainer-Name: Thomas Cushan
-Maintainer-Email: T.Cushan@uea.ac.uk
-Order-Email: eco.reception@uea.ac.uk
+Maintainer-Name: Cara Liggins
+Maintainer-Email: ECO.reception@uea.ac.uk
+Order-Email: ECO.reception@uea.ac.uk
 Order-Postal: Reception, School of Economics, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
 Handle: RePEc:uea:papers
 Followup: RePEc:uea:aepppr
@@ -36,11 +36,11 @@ Description:  Research papers from the members of the School of Economics at the
 Type: ReDIF-Paper
 Provider-Name: School of Economics, University of East Anglia, Norwich, UK. 
 Provider-Homepage: http://www.uea.ac.uk/economics
-Provider-Phone: 44 1603 591131
+Provider-Phone: 44 1603 592941
 Provider-Institution: RePEc:edi:esueauk
-Maintainer-Name: Thomas Cushan
-Maintainer-Email: T.Cushan@uea.ac.uk
-Order-Email: eco.reception@uea.ac.uk
+Maintainer-Name: Cara Liggins
+Maintainer-Email: ECO.reception@uea.ac.uk
+Order-Email: ECO.reception@uea.ac.uk
 Order-Postal: Reception, School of Economics, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
 Handle: RePEc:uea:aepppr
 Predecessor: RePEc:uea:papers
@@ -53,11 +53,11 @@ Description:  Recent research papers from the members of the Centre for Behaviou
 Type: ReDIF-Paper
 Provider-Name: School of Economics, University of East Anglia, Norwich, UK. 
 Provider-Homepage: http://www.uea.ac.uk/economics
-Provider-Phone: 44 1603 591131
+Provider-Phone: 44 1603 592941
 Provider-Institution: RePEc:edi:esueauk
-Maintainer-Name: Thomas Cushan
-Maintainer-Email: T.Cushan@uea.ac.uk
-Order-Email: eco.reception@uea.ac.uk
+Maintainer-Name: Cara Liggins
+Maintainer-Email: ECO.reception@uea.ac.uk
+Order-Email: ECO.reception@uea.ac.uk
 Order-Postal: Reception, School of Economics, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
 Handle: RePEc:uea:wcbess
 
@@ -67,10 +67,10 @@ Description:  Recent research papers from the members of the Centre for Competit
 Type: ReDIF-Paper
 Provider-Name: Centre for Competition Policy, University of East Anglia, Norwich, UK. 
 Provider-Homepage: http://www.competition-policy.ac.uk
-Provider-Phone: 44 1603 591619
+Provider-Phone: 44 1603 592941
 Provider-Institution: RePEc:edi:esueauk
-Maintainer-Name: Thomas Cushan
-Maintainer-Email: T.Cushan@uea.ac.uk
-Order-Email: T.Cushan@uea.ac.uk
-Order-Postal: Tom Cushan, Center for Competition Policy, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
+Maintainer-Name: Juliette Hardmad
+Maintainer-Email: CCP@uea.ac.uk
+Order-Email: CCP@uea.ac.uk
+Order-Postal: Juliette Hardman, Center for Competition Policy, University of East Anglia, Norwich Research Park, Norwich, NR4 7TJ, UK
 Handle: RePEc:uea:ueaccp
