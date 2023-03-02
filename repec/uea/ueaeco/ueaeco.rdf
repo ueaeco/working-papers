@@ -1,4 +1,28 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Copula-based estimation of health inequality measures with an application to COVID-19
+Author-Name: Taoufik Bouezmarni
+Author-X-Name-First: Taoufik
+Author-X-Name-Last: Bouezmarni
+Author-Workplace-Name: Universite de Sherbrooke
+Author-Name: Mohamed Doukali
+Author-X-Name-First: Mohamed
+Author-X-Name-Last: Doukali
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Abderrahim Taamouti
+Author-X-Name-First: Abderrahim
+Author-X-Name-Last: Taamouti
+Author-Workplace-Name: University of Liverpool
+Abstract: This paper aims to use copulas to derive alternative estimators of Health Concentration Curve, hereafter CH, and Gini coefficient for health distribution. We motivate the importance of expressing health inequality measures in terms of copula, which we in turn use to build copula-based semi and non-parametric estimators of the above measures. Thereafter, we study the asymptotic properties of these estimators. In particular, we establish their consistency and asymptotic normality. We provide expressions for their variances, which can be used to construct confidence intervals and build tests for health concentration curve and Gini health coe¢ cient. A Monte-Carlo simulation exercise shows that the semiparametric estimator outperforms the smoothed nonparametric estimator, and that the latter does better than the empirical estimator in terms of Mean Squared Error. We also run an extensive empirical study where we apply our CH and Gini health coe¢ cient estimators to show that the inequalities across U.S. states socioeconomic variables like income/poverty and race/ethnicity explain the observed inequalities in the U.S. COVID-19s infections and deaths.
+Classification-JEL: C13, C14, I14
+Keywords: Health concentration curve, Gini health coe¢ cient, inequality, copula, semi- and non-parametric estimators, COVID-19 infections and deaths
+Number: 2023-01
+Creation-Date: 202301
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2023-01.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2023-01
+
+Template-Type: ReDIF-Paper 1.0
 Title: Positive Disruption? Meritocratic Principal Selection and Student Achievement
 Author-Name: Oana Borcan
 Author-X-Name-First: Oana
