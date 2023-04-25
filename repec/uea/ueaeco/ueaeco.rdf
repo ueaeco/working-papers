@@ -1,4 +1,28 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Testing Granger Non-Causality in Expectiles
+Author-Name: Taoufik Bouezmarni
+Author-X-Name-First: Taoufik
+Author-X-Name-Last: Bouezmarni
+Author-Workplace-Name: Universite de Sherbrooke
+Author-Name: Mohamed Doukali
+Author-X-Name-First: Mohamed
+Author-X-Name-Last: Doukali
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Abderrahim Taamouti
+Author-X-Name-First: Abderrahim
+Author-X-Name-Last: Taamouti
+Author-Workplace-Name: University of Liverpool
+Abstract: This paper aims to derive a consistent test of Granger causality at a given expectile. We also propose a sup Wald test for jointly testing Granger causality at all expectiles that has the correct asymptotic size and power properties. Expectiles have the advantage of capturing similar information as quantiles, but they also have the merit of being much more straightforward to use than quantiles, since they are defined as least squares analogue of quantiles. Studying Granger causality in expectiles is practically simpler and allows us to examine the causality at all levels of the conditional distribution. Moreover, testing Granger causality at all expectiles provides a su¢ cient condition for testing Granger causality in distribution. A Monte Carlo simulation study reveals that our tests have good finite-sample size and power properties for a variety of data-generating processes and di¤erent sample sizes. Finally, we provide two empirical applications to illustrate the usefulness of the proposed tests.
+Classification-JEL: C12, C22
+Keywords: Granger causality in expectiles, Granger causality in distribution, expectile regression function, asymmetric loss function, sup-Wald test.
+Number: 2023-02
+Creation-Date: 202304
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2023-02.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2023-02
+
+Template-Type: ReDIF-Paper 1.0
 Title: Copula-based estimation of health inequality measures with an application to COVID-19
 Author-Name: Taoufik Bouezmarni
 Author-X-Name-First: Taoufik
