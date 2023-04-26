@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Have the Effects of Shocks to Oil Price Expectations Changed? Evidence from Heteroskedastic Proxy Vector Autoregressions
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Helmut Luetkepohl
+Author-X-Name-First: Helmut
+Author-X-Name-Last: Luetkepohl
+Author-Workplace-Name: DIW Berlin and Freie Universitaet Berlin
+Abstract: Studies of the crude oil market based on structural vector autoregressive (VAR) models typically assume a time-invariant model and transmission of shocks or they consider a time-varying model and shock transmission. We assume a heteroskedastic reduced form VAR model with time invariant slope coefficients and test for time varying impulse responses in a model for the global crude oil market that includes key macroeconomic variables. We find evidence for changes in the transmission of shocks to oil price expectations during the last decades which can be attributed to heteroskedasticity.
+Classification-JEL: C32
+Keywords: Structural vector autoregression, heteroskedastic VAR, proxy VAR, crude oil market
+Number: 2023-03
+Creation-Date: 202304
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2023-03.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2023-03
+
+Template-Type: ReDIF-Paper 1.0
 Title: Testing Granger Non-Causality in Expectiles
 Author-Name: Taoufik Bouezmarni
 Author-X-Name-First: Taoufik
