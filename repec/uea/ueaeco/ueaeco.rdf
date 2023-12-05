@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Precipitation events and local corn prices: evidence from Brazil
+Author-Name: Geraldo Costa Junior
+Author-X-Name-First: Geraldo
+Author-X-Name-Last: Costa Junior
+Author-Workplace-Name: Universidade Federal Fluminense
+Author-Name: Andrea Calef
+Author-X-Name-First: Andrea
+Author-X-Name-Last: Calef
+Author-Workplace-Name: School of Economics, University of East Anglia
+Abstract: Weather variation plays a primary role in commodity price formation. In most contexts, the amount of rainfall is usually taken by farmers as an indicator of crop success or failure. However, the literature is still vague in defining when in the pre-harvest period weather information is more critical for price formation. In this sense, we investigate the impact of dryness on commodity price formation during the pre-harvest period and across phenological stages in the context of a major corn producing country. We build a database containing variables such as price and the number of days with no precipitation between January 2005 and December 2019. We use a panel data regression of corn spot prices on the number of days without rain, and its squares. We find a significant and nonlinear relationship between the number of dry days in a week and local corn price variations. Overall, prices start rising after 4 days with no precipitation. Disentangling this impact into phenological stages, we find that dryness events tend to impact prices during the vegetative and flowering stages but have no effect during the grain filling stage. We also find that abnormal precipitation events tend to increase corn prices, as they contribute to depressing farmers expectations on future corn availability by harvest time. However, this result is led by water scarcity events, while, on the contrary, water overabundance events negatively affect prices. 
+Classification-JEL: 
+Keywords: 
+Number: 2023-04
+Creation-Date: 202311
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2023-04.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2023-04
+
+Template-Type: ReDIF-Paper 1.0
 Title: Have the Effects of Shocks to Oil Price Expectations Changed? Evidence from Heteroskedastic Proxy Vector Autoregressions
 Author-Name: Martin Bruns
 Author-X-Name-First: Martin
