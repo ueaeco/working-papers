@@ -1,4 +1,23 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Testing for Strong Exogeneity in Proxy-VARS
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Sascha A. Keweloh
+Author-X-Name-First: Sascha 
+Author-X-Name-Last: Keweloh
+Author-Workplace-Name: TU Dortmund University
+Abstract: Proxy variables have gained widespread prominence as indispensable tools for identifying structural VAR models. Analogous to instrumental variables, proxies need to be exogenous, i.e. uncorrelated with all non-target shocks. Assessing the exogeneity of proxies has traditionally relied on economic arguments rather than statistical tests. We argue that the economic rational underlying the construction of commonly used proxy variables aligns with a stronger form of exogeneity. Specifically, proxies are typically constructed as variables not containing any information on the expected value of non-target shocks. We show conditions under which this enhanced concept of proxy exogeneity is testable without additional identifying assumptions.
+Classification-JEL: C32
+Keywords: Structural vector autoregression, proxy VAR, exogeneity test
+Number: 2023-07
+Creation-Date: 202312File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2023-07.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2023-07
+
+Template-Type: ReDIF-Paper 1.0
 Title: The right to benefit: Using videos to encourage citizen involvement in resource revenue management
 Author-Name: Christa Brunnschweiler
 Author-X-Name-First: Christa
