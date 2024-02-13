@@ -1,4 +1,28 @@
 Template-Type: ReDIF-Paper 1.0
+Title: An Econometric Analysis of Volatility Discovery
+Author-Name: Gustavo Fruet Dias
+Author-X-Name-First: Gustavo 
+Author-X-Name-Last: Fruet Dias
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Fotis Papailias
+Author-X-Name-First: Fotis 
+Author-X-Name-Last: Papailias
+Author-Workplace-Name: King’s Business School, King’s College London
+Author-Name: Cristina Scherrer
+Author-X-Name-First: Cristina 
+Author-X-Name-Last: Scherrer
+Author-Workplace-Name: Department of Finance, London School of Economics 
+Abstract: We investigate information processing in the stochastic process driving stock’s volatility (volatility discovery). We apply fractionally cointegration techniques to de-compose the estimates of the market-speciﬁc integrated variances into an estimate of the common integrated variance of the eﬃcient price and a transitory component. The market weights on the common integrated variance of the eﬃcient price are the volatility discovery measures. We relate the volatility discovery measure to the price discovery framework and formally show their roles on the identiﬁcation of the inte-grated variance of the eﬃcient price. We establish the limiting distribution of the volatility discovery measures by resorting to both long span and in-ﬁll asymptotics. The empirical application is in line with our theoretical results, as it reveals that trading venues incorporate new information into the stochastic volatility process in an individual manner and that the volatility discovery analysis identiﬁes a distinct information process than that based on the price discovery analysis.
+Classification-JEL: 
+Keywords: long memory, fractionally cointegrated vector autoregressive model, realized measures, market microstructure, price discovery, high-frequency data, double asymptotics
+Number: 2024-01
+Creation-Date: 202312
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2024-01.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2024-01
+
+Template-Type: ReDIF-Paper 1.0
 Title: The right to benefit: Using videos to encourage citizen involvement in resource revenue management
 Author-Name: Christa Brunnschweiler
 Author-X-Name-First: Christa
