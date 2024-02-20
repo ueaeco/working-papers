@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Ex-ante Novelty and Invention Quality: A Cross-country Sectoral Empirical Study
+Author-Name: Yuan Gao
+Author-X-Name-First: Yuan
+Author-X-Name-Last: Gao
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Emiliya Lazarova
+Author-X-Name-First: Emiliya
+Author-X-Name-Last: Lazarova
+Author-Workplace-Name: School of Economics, University of East Anglia
+Abstract: The research on measuring technological innovation quality has evolved with our understanding of the origin of novelty. Patents have been widely used in such studies because they are a form of copyright-protected outcome of inventions deemed to be valuable. The quality of technological innovation can be measured in multiple dimensions. In this paper, we make a methodological contribution to the literature on ex-ante technological novelty and propose two new indices based on a network approach: the Inverse Recombination Intensity Index (IRII) to capture the extent to which an invention is the outcome of a novel combination of pre-existing technological components; and the New Technology Ratio (NTR) to measure the share of new knowledge elements in the invention. Through an in-depth empirical study of patents filed in the Pharmaceuticals and Computer Technology sectors, we show that our proposed indices are correlated with some of the conventional patent quality indicators and go beyond that to reveal previously unnoticed features of the inventions process, of which some are sector-specific. Moreover, through our regression analysis, we demonstrate that IRII and NTR are important predictors of a patents’ potential impact on future inventions, which confirms the ex-ante nature of our indices. In the regression analysis we also include sector-country-specific R&D input variables as controls to test the robustness of our results. Our analysis suggests that the distinct characteristics of each sector affect how the quality of innovation is related to the ex-ante measures of technological novelty. We argue, therefore, that future analysis of the link between ex-ante novelty and ex-post quality of innovation needs to take into consideration the recombinant content of the invention and account for sectoral characteristics.
+Classification-JEL: 
+Keywords: Innovation quality, Disruptive novelty, Ex-ante novelty, Patent, Network
+Number: 2024-02
+Creation-Date: 202402
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2024-02.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2024-02
+
+Template-Type: ReDIF-Paper 1.0
 Title: An Econometric Analysis of Volatility Discovery
 Author-Name: Gustavo Fruet Dias
 Author-X-Name-First: Gustavo 
