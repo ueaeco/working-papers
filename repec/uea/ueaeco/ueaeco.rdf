@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Integrated Variance Estimation for Assets Traded in Multiple Venues
+Author-Name: Gustavo Fruet Dias
+Author-X-Name-First: Gustavo
+Author-X-Name-Last: Fruet Dias
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Karsten Schweiker
+Author-X-Name-First: Karsten
+Author-X-Name-Last: Schweiker
+Author-Workplace-Name: University of Hohenheim
+Abstract: In this paper, we identify a novel form of multiplicative market microstructure noise, referred to as fragmentation noise, which arises when the same asset is traded across multiple venues. We demonstrate that conventional estimators, such as realized variance and other well-established noise-robust methods, yield inconsistent estimates in the presence of fragmentation noise. To address this estimation issue, we propose a two-step estimator. In the first step, we model prices in different trading venues using a vector error correction model, leveraging its common trend representation to estimate the efficient price of the asset. In the second step, we compute the realized variance estimator using the estimates of the efficient price. We derive the asymptotic distribution of our proposed two-step estimator and conduct comprehensive simulation experiments. An application to the constituents of the DJIA reveals that our two-step estimator outperforms or performs on par with the univariate estimators under consideration.
+Classification-JEL: C12; C15; G14
+Keywords: High-frequency data, Ornstein-Uhlenbeck process, Cointegration, Realized variance, Realized kernel estimators, Market microstructure, Price discovery
+Number: 2024-04
+Creation-Date: 202404
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2024-04.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2024-04
+
+Template-Type: ReDIF-Paper 1.0
 Title: Signing as Signalling in International Environmental Agreements
 Author-Name: Antonina Nazarova
 Author-X-Name-First: Antonina
