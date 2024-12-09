@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Heteroskedastic Structural Vector Autoregressions Identified via Long-run Restrictions
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Helmut Lutkepohl
+Author-X-Name-First: Helmut
+Author-X-Name-Last: Lutkepohl 
+Author-Workplace-Name: DIW Berlin and Freie Universitat Berlin
+Abstract: A central assumption for identifying structural shocks in vector autoregressive (VAR) models via heteroskedasticity is the time-invariance of the impact effects of the shocks. It is shown how that assumption can be tested when long-run restrictions are available for identifying structural shocks. The importance of performing such tests is illustrated by investigating the impact of fundamental shocks on stock prices in the U.S.. It is found that fundamental shocks post-1986 have become more important than in the pre-1986 period.
+Classification-JEL: C32
+Keywords: Structural vector autoregression, heteroskedasticity, cointegration, structural vector error correction model
+Number: 2024-06
+Creation-Date: 202412
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2024-06.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2024-06
+
+Template-Type: ReDIF-Paper 1.0
 Title: Avoiding Unintentionally Correlated Shocks in Proxy Vector Autoregressive Analysis
 Author-Name: Martin Bruns
 Author-X-Name-First: Martin
