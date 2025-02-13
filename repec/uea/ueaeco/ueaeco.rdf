@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Comparing External and Internal Instruments for Vector Autoregressions
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Helmut Lutkepohl
+Author-X-Name-First: Helmut
+Author-X-Name-Last: Lutkepohl 
+Author-Workplace-Name: DIW Berlin and Freie Universitat Berlin
+Abstract: In conventional proxy VAR analysis, the shocks of interest are identified by external instruments. This is typically accomplished by considering the covariance of the instruments and the reduced-form residuals. Alternatively, the instruments may be internalized by augmenting the VAR process by the instruments or proxies. These alternative identification methods are compared and it is shown that the resulting shocks obtained with the alternative approaches differ in general. Conditions are provided under which their impulse responses are nevertheless identical. If the conditions are satisfied, identification of the shocks is ensured without further assumptions. Empirical examples illustrate the results and the virtue of using the identification conditions derived in this study.
+Classification-JEL: C32
+Keywords: Structural vector autoregression, proxy VAR, augmented VAR, fundamental shocks, invertible VAR
+Number: 2025-01
+Creation-Date: 202502
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2025-01.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2025-01
+
+Template-Type: ReDIF-Paper 1.0
 Title: Heteroskedastic Structural Vector Autoregressions Identified via Long-run Restrictions
 Author-Name: Martin Bruns
 Author-X-Name-First: Martin
