@@ -1,4 +1,28 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Disclosure of Verifiable Information under Competition: An Experimental Study
+Author-Name: Stefan P. Penczynski
+Author-X-Name-First: Stefan
+Author-X-Name-Last: Penczynski
+Author-Workplace-Name: School of Economics and Centre for Behavioural and Experimental Social Science, University of East Anglia 
+Author-Name: Christian Koch
+Author-X-Name-First: Christian
+Author-X-Name-Last: Koch
+Author-Workplace-Name: Department of Economics, University of Vienna
+Author-Name: Sihong Zhang
+Author-X-Name-First: Sihong
+Author-X-Name-Last: Zhang
+Author-Workplace-Name: McKinsey & Company, Inc.
+Abstract: This study investigates experimentally information disclosure in settings with and without seller competition. Sellers often choose to report information selec-tively and buyers account for this—even though not fully—by bidding skeptically. As expected, competition increases sellers’ information disclosure but leads, sur-prisingly and replicably, to more buyer na¨ıvety, offsetting the welfare benefits from improved disclosure. A framing effect generates this result: merely describing a situation as competitive rather than monopolistic alters buyer behavior. Akin to the so-called Peltzman effect, buyers seemingly perceive competition as a safer en-vironment to which they behaviorally adapt by abandoning their skepticism. Con-sequently, consumer benefits hinge on perceived competitiveness—a vulnerability firms may leverage to their advantage.
+Classification-JEL: D40, D83
+Keywords: Disclosure, verifiable information, competition, Peltzman effect
+Number: 25-01
+Creation-Date: 202502
+File-URL: https://ueaeco.github.io/working-papers/papers/cbess/UEA-CBESS-25-01.pdf
+File-Format: application/pdf
+File-Function: main text
+Handle: RePEc:uea:wcbess:25-01
+
+Template-Type: ReDIF-Paper 1.0
 Title: Using Large Language Models for Text Classification in Experimental Economics
 Author-Name: Can Celebi
 Author-X-Name-First: Can
