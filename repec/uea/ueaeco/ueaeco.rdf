@@ -1,4 +1,24 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Review of Proxy Vector and Autoregressive Analysis
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Helmut Lütkepohl
+Author-X-Name-First: Helmut
+Author-X-Name-Last: Lütkepohl
+Author-Workplace-Name: DIW Berlin & FU Berlin
+Abstract: In structural vector autoregressive analysis it has become quite popular to identify some structural shocks of interest by external instruments or proxies. This study points out a range of areas where such proxies have been used and sketches the way the proxies have been constructed. It reviews identification and estimation methods that have been considered in this context. Moreover, it points out some features such as heteroskedasticity, nonfundamentalness of the shocks and violations of the standard assumptions for proxies that may result in complications.
+Classification-JEL: C32
+Keywords: Structural vector autoregression, proxy VAR, local projection, weak instruments, internal instruments, external instruments, fundamental shocks
+Number: 2026-01
+Creation-Date: 202603
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2026-01.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2026-01
+
+Template-Type: ReDIF-Paper 1.0
 Title: What Drives the Global Diffusion of Digital Finance? Socioeconomic and Demographic Determinants
 Author-Name: Sya In Chzhen
 Author-X-Name-First: Sya In
