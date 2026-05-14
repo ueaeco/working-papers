@@ -1,4 +1,27 @@
 Template-Type: ReDIF-Paper 1.0
+Title: Reassessing Proxy-based Identification of Multiple Monetary Policy Shocks for the Euro Area, the US , and the UK
+Author-Name: Martin Bruns
+Author-X-Name-First: Martin
+Author-X-Name-Last: Bruns
+Author-Workplace-Name: School of Economics, University of East Anglia
+Author-Name: Helmut Lütkepohl
+Author-X-Name-First: Helmut
+Author-X-Name-Last: Lütkepohl
+Author-Workplace-Name: DIW Berlin & FU Berlin
+Author-Name: James McNeil
+Author-X-Name-First: James
+Author-X-Name-Last: McNeil
+Author-Workplace-Name: Department of Economics, Dalhousie University
+Abstract: Several recent studies consider a set of proxies to identify different monetary policy shocks for different regions in the world. We show that the way the proxies are used to identify the monetary policy shocks may lead to correlated shocks and dubious structural analysis and we demonstrate how to overcome the problem of correlated shocks. We illustrate that, if correlated shocks are used in applied studies, key statistics of interest such as impulse responses and forecast error variance decompositions can be severely distorted and we consider bench mark studies on monetary policy in the euro area (EA), the US and the UK to demonstrate the problems.
+Classification-JEL: C32
+Keywords: Structural vector autoregression, proxy VAR, GMM, correlated structural shocks
+Creation-Date: 202603
+File-URL: https://ueaeco.github.io/working-papers/papers/ueaeco/UEA-ECO-2026-02.pdf
+File-Format: application/pdf 
+File-Function: main text 
+Handle: RePEc:uea:ueaeco:2026-02
+
+Template-Type: ReDIF-Paper 1.0
 Title: Review of Proxy Vector and Autoregressive Analysis
 Author-Name: Martin Bruns
 Author-X-Name-First: Martin
